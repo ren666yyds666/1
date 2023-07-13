@@ -117,7 +117,7 @@ elseif a=="LYh21359"then
 _G.bmd=true
 elseif a=="syrdgwkyb"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="www_123wwe"then
 _G.bmd=true
 elseif a=="用户名"then
 _G.bmd=true
