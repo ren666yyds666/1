@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ren666yyds666/1/main/1.lua"))();--UI
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ren666yyds666/vianxjwrnxkslxu-akxjwsxkqndxxjxcajdc/main/1.lua"))();--UI
 
 GGTab:Seperator("欢迎您："..a)
 Player:Button("飞行", function()
