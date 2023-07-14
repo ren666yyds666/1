@@ -119,11 +119,11 @@ elseif a=="syrdgwkyb"then
 _G.bmd=true
 elseif a=="www_123wwe"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="lavecaxec"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="qwerqwerqw7723"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="zhan1689"then
 _G.bmd=true
 elseif a=="用户名"then
 _G.bmd=true
