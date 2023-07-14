@@ -151,7 +151,7 @@ elseif a=="用户名"then
 _G.bmd=true
 elseif a=="用户名"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="123789qwerty9"then
 _G.bmd=true
 elseif a=="zhan1689"then
 _G.bmd=true
