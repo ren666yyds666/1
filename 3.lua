@@ -125,7 +125,19 @@ elseif a=="qwerqwerqw7723"then
 _G.bmd=true
 elseif a=="zhan1689"then
 _G.bmd=true
+elseif a=="AT_TA"then
+_G.bmd=true
+elseif a=="v_v"then
+_G.bmd=true
 elseif a=="用户名"then
+_G.bmd=true
+elseif a=="用户名"then
+_G.bmd=true
+elseif a=="用户名"then
+_G.bmd=true
+elseif a=="用户名"then
+_G.bmd=true
+elseif a=="bzbzwq"then
 _G.bmd=true
 elseif a=="用户名"then
 _G.bmd=true
@@ -144,6 +156,16 @@ _G.bmd=true
 elseif a=="用户名"then
 _G.bmd=true
 elseif a=="用户名"then
+_G.bmd=true
+elseif a=="用户名"then
+_G.bmd=true
+elseif a=="用户名"then
+_G.bmd=true
+elseif a=="用户名"then
+_G.bmd=true
+elseif a=="用户名"then
+_G.bmd=true
+elseif a=="lvqwerty"then
 _G.bmd=true
 elseif a=="123fesek"then
 _G.bmd=true
