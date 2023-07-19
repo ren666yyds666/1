@@ -25,15 +25,15 @@ elseif a=="Wjklmdooowas"then
 _G.bmd=true
 elseif a=="alexlau0724"then
 _G.bmd=true
-elseif a=="游戏名"then
+elseif a=="meow_brother5"then
 _G.bmd=true
-elseif a=="游戏名"then
+elseif a=="Q2eR556"then
 _G.bmd=true
-elseif a=="游戏名"then
+elseif a=="ysrtzdfzfshzrh"then
 _G.bmd=true
-elseif a=="游戏名"then
+elseif a=="jxbjsjxbs456"then
 _G.bmd=true
-elseif a=="游戏名"then
+elseif a=="lacnb666"then
 _G.bmd=true
 elseif a=="游戏名"then
 _G.bmd=true
