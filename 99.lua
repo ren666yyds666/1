@@ -7,33 +7,87 @@ CoreGui:SetCore("SendNotification", {
 local a=tostring(game.Players.LocalPlayer.Character);
 if a=="123fa98"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="4n0therunl0"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="He5vy"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="yuanshenzmnl3"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="wanscd"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="114514i9"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="zhan1689"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="gsahmdamu"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="Wjklmdooowas"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="alexlau0724"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="游戏名"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="游戏名"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="游戏名"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="游戏名"then
 _G.bmd=true
-elseif a=="用户名"then
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
+_G.bmd=true
+elseif a=="游戏名"then
 _G.bmd=true
 end
 if _G.bmd==true then
