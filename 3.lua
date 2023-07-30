@@ -104,6 +104,10 @@ Player:Toggle("夜视", "", false, function(Value)
     end)
 end)
 
+Player:button("忍脚本 -- 拓展", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/bW73Ez1N"))();
+end)
+
 FMTab:Button("忍 脚 本 -- 伐木大亨2", function()
       loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\101\121\77\117\74\68\50\52\34\41\41\40\41\59\10")()
 end)
@@ -283,4 +287,8 @@ end)
       
 DoorsTab:Button("MS DOORS", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/mstudio45/MSDOORS/7bd97c2d956a775d683c2d7973d79715b30998ea/MSDOORS/Moonsec.lua'))()
+end)
+
+DoorsTab:Button("KINGHUB", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/x0EyeM6X"))();
 end)
