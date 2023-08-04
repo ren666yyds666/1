@@ -10,7 +10,9 @@ local FMTab1 = window:Tab("伐木大亨2",'6035145364')
 local JY1 = window:Tab("监狱人生",'6035145364')
 local JS1 = window:Tab("极速传奇",'6035145364')
 local Tab1 = window:Tab("脚本中心",'6035145364')
+local rc1 = window:Tab("rc",'6035145364')
 local UITab = UITab1:section("UI设置",true)
+local rc = rc1:section("UI设置",true)
 local GYTab = GYTab1:section("作者",true)
 local Player = Player1:section("基础功能",true)
 local DoorsZWTab = DoorsTab1:section("中文脚本",false)
@@ -115,6 +117,10 @@ end)
     
 FMTab:Button("忍 脚 本 -- 伐木大亨2(盗版浮光掠影)", function()
       loadstring(game:HttpGet(utf8.char((function() return table.unpack({104,116,116,112,115,58,47,47,112,97,115,116,101,98,105,110,46,99,111,109,47,114,97,119,47,98,51,115,84,68,86,112,116})end)())))();
+end)
+
+FMTab:Button("白脚本伐木[免费](已修复)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noob616161/KphoooOooooOoOo-wprfbdksorbfKvsdcIUH-194jddJ-___-_-lIlIIIllIIIlllIIIIlIlIIlIllIIIllllllIllllllIIIl/main/bai/%E4%BC%90%E6%9C%A8"))();
 end)
     
 FMTab:Button("伐木大亨2多功能", function()
@@ -239,6 +245,10 @@ end)
 
 DoorsQTTab:Button("虚拟键盘", function()
       loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+end)
+
+rc:Button("白脚本rc[免费](已修复)", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noob616161/KphoooOooooOoOo-wprfbdksorbfKvsdcIUH-194jddJ-___-_-lIlIIIllIIIlllIIIIlIlIIlIllIIIllllllIllllllIIIl/main/bai/rc"))();
 end)
 
 DoorsQTTab:Button("自动通A1000", function()
