@@ -1,3 +1,6 @@
+if key == "China First" then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ren666yyds666/vianxjwrnxkslxu-akxjwsxkqndxxjxcajdc/main/120.lua"))();
+else
 local ScreenGui = Instance.new("ScreenGui")
 local UI = Instance.new("Frame")
 local Title = Instance.new("TextLabel")
