@@ -1,13 +1,4 @@
 local a=tostring(game.Players.LocalPlayer.Character);
-
-------------------------------------黑名单------------------------------------
-if a=="用户名"then
-_G.hmd=true 
-elseif a=="用户名"then
-_G.bmd=true
-if _G.hmd==true then
-game.Players.LocalPlayer:Kick(a.."，您已进入忍脚本黑名单")
-else
 ------------------------------------白名单------------------------------------
 if a=="123fa98"then
 _G.bmd=true
@@ -40,6 +31,5 @@ CoreGui:SetCore("SendNotification", {
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ren666yyds666/vianxjwrnxkslxu-akxjwsxkqndxxjxcajdc/main/120.lua"))();
     else
 setclipboard("830835939")
-game.Players.LocalPlayer:Kick(a.."，您未加入忍脚本白名单")
-end
+game.Players.LocalPlayer:Kick("您未加入忍脚本白名单，请到830835939获取白名单")
 end
