@@ -20,6 +20,14 @@ elseif a=="kkisodp" then
 _G.bmd=true
 elseif a=="zk8888888888" then
 _G.bmd=true
+elseif a=="qwazszx" then
+_G.bmd=true
+elseif a=="N1_jchskwbd" then
+_G.bmd=true
+elseif a=="yuanshenzmnl3" then
+_G.bmd=true
+elseif a=="zhan1689" then
+_G.bmd=true
 end
 if _G.bmd==true then
 local CoreGui = game:GetService("StarterGui")
