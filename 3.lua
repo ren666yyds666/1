@@ -12,8 +12,6 @@ elseif a=="Yu Qing" then
 _G.bmd=true
 elseif a=="UsA123785" then
 _G.bmd=true
-elseif a=="N1_jchskwbd" then
-_G.bmd=true
 elseif a=="jchdhdee" then
 _G.bmd=true
 elseif a=="kkisodp" then
@@ -27,6 +25,16 @@ _G.bmd=true
 elseif a=="yuanshenzmnl3" then
 _G.bmd=true
 elseif a=="zhan1689" then
+_G.bmd=true
+elseif a=="xgfvhhgvbh" then
+_G.bmd=true
+elseif a=="LYh21319" then
+_G.bmd=true
+elseif a=="hdkdksqow" then
+_G.bmd=true
+elseif a=="123jxusjbf" then
+_G.bmd=true
+elseif a=="xgfvhhgvbh" then
 _G.bmd=true
 end
 if _G.bmd==true then
