@@ -13,6 +13,7 @@ CoreGui:SetCore("SendNotification", {
     Text = a.."，作者欢迎回来",
     Duration = 5,
 })
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ren666yyds666/vianxjwrnxkslxu-akxjwsxkqndxxjxcajdc/main/120.lua"))();
 elseif i == 2 then 
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
@@ -20,6 +21,7 @@ CoreGui:SetCore("SendNotification", {
     Text = a.."，欢迎你捐献者",
     Duration = 5,
 })
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ren666yyds666/vianxjwrnxkslxu-akxjwsxkqndxxjxcajdc/main/120.lua"))();
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ren666yyds666/vianxjwrnxkslxu-akxjwsxkqndxxjxcajdc/main/%E7%99%BD%E5%90%8D%E5%8D%95.lua"))();
 end
