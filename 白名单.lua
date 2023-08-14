@@ -52,6 +52,22 @@ elseif a=="CN_114514ppp" then
 _G.bmd=true
 elseif a=="yydssxg" then
 _G.bmd=true
+elseif a=="ygxmjg" then
+_G.bmd=true
+elseif a=="rsy123456rsy" then
+_G.bmd=true
+elseif a=="j38fne82" then
+_G.bmd=true
+elseif a=="mndmndmnd08" then
+_G.bmd=true
+elseif a=="q2064" then
+_G.bmd=true
+elseif a=="CN_114514ppp" then
+_G.bmd=true
+elseif a=="CN_HHMm" then
+_G.bmd=true
+elseif a=="4n0therunl0" then
+_G.bmd=true
 end
 if _G.bmd==true then
 local CoreGui = game:GetService("StarterGui")
